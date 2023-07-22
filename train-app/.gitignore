@@ -21,3 +21,20 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+train reg
+{
+  "companyName": "train-app",
+  "clientID": "ef9ba715-6b66-4cae-84db-19bc9f3d8abc",
+  "clientSecret": "TxlLUfRUssUCbZCl",
+  "ownerName": "Mehul",
+  "ownerEmail": "cs20077@glbitm.ac.in",
+  "rollNo": "2001920100177"
+}
+
+train auth
+{
+  "token_type": "Bearer",
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTAwMzc4MzksImNvbXBhbnlOYW1lIjoidHJhaW4tYXBwIiwiY2xpZW50SUQiOiJlZjliYTcxNS02YjY2LTRjYWUtODRkYi0xOWJjOWYzZDhhYmMiLCJvd25lck5hbWUiOiIiLCJvd25lckVtYWlsIjoiIiwicm9sbE5vIjoiMjAwMTkyMDEwMDE3NyJ9.7waItejaqXwn0YqIoUv7D_1fFmAuvzz73CS3WuUEkgA",
+  "expires_in": 1690037839
+}
